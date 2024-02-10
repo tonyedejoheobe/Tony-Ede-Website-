@@ -1,0 +1,37 @@
+/* Add your desired styles here */
+header {
+  background-color: #ff6600;
+  padding: 20px;
+  background-image: url('PRINT.jpg');
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.hero {
+  background-image: url('PRINT.jpg');
+  background-size: cover;
+  text-align: center;
+  padding: 100px;
+  color: #ff6600;
+
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: #ff6600;
+  color: #fff;
+}
